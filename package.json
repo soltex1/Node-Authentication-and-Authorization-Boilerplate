@@ -24,7 +24,7 @@
     "bookshelf": "^1.1.0",
     "hapi-auth-jwt2": "^9.0.1",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "pg": "^7.18.1"
   }
 }
